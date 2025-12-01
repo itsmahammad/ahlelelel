@@ -6,3 +6,10 @@ if (input % 2 ==0)
 }
 else
     Console.WriteLine("This number is odd");
+﻿Console.WriteLine("mehemmed");
+
+string userInput = "yuxarda ne yazilib?";
+
+Console.WriteLine(userInput);
+
+string input = Console.ReadLine();
